@@ -1,0 +1,3 @@
+# Ignore build and node modules
+build/
+node_modules/
